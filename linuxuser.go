@@ -1,9 +1,4 @@
-/*
-
-Package linuxuser parses `/etc/passwd` and if the permissions allows, the `/etc/shadow`.
-
-*/
-
+// Package linuxuser parses `/etc/passwd` and if the permissions allows, the `/etc/shadow`.
 package linuxuser
 
 import (
